@@ -1,0 +1,69 @@
+header:3003
+收到消息: 3003/Game.Shared.Proto.Msg_PlayerConnect_Rsp/{ }
+收到消息：Game.Shared.Proto.Msg_PlayerConnect_Rsp/{ }
+header:3004
+Header:5,Msg:12
+header:3005
+收到消息: 3005/Game.Shared.Proto.Msg_PlayerIdentify_Rsp/{ "playerId": 1 }
+收到消息：Game.Shared.Proto.Msg_PlayerIdentify_Rsp/{ "playerId": 1 }
+header:3007
+收到消息: 3007/Game.Shared.Proto.Msg_Join_Ntf/{ "playerIds": [ 1 ] }
+收到消息：Game.Shared.Proto.Msg_Join_Ntf/{ "playerIds": [ 1 ] }
+header:3008
+Header:5,Msg:0
+header:3009
+收到消息: 3009/Game.Shared.Proto.Msg_BattleStart_Ntf/{ "randomSeed": 18 }
+收到消息：Game.Shared.Proto.Msg_BattleStart_Ntf/{ "randomSeed": 18 }
+RandomSeed:18
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "5" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "5" }
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "10" }
+header:3001
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "10" }
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "15" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "15" }
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "20" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "20" }
+header:3002
+收到消息: 3002/Game.Shared.Proto.Msg_PingPong_Rsp/{ }
+收到消息：Game.Shared.Proto.Msg_PingPong_Rsp/{ }
+RTT:0.16503716
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "25" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "25" }
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "30" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "30" }
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "35" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "35" }
+header:3001
+Header:5,Msg:0
+header:3002
+收到消息: 3002/Game.Shared.Proto.Msg_PingPong_Rsp/{ }
+收到消息：Game.Shared.Proto.Msg_PingPong_Rsp/{ }
+RTT:0.029361725
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "40" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "40" }
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "45" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "45" }
+header:3001
+Header:5,Msg:0
+header:3002
+收到消息: 3002/Game.Shared.Proto.Msg_PingPong_Rsp/{ }
+收到消息：Game.Shared.Proto.Msg_PingPong_Rsp/{ }
+RTT:0.03367424
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "50" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "50" }
+header:3016
+收到消息: 3016/Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "55" }
+收到消息：Game.Shared.Proto.Msg_Command_Ntf/{ "curBattleServerTick": "55" }
+header:3001
+Header:5,Msg:0

@@ -1,0 +1,9 @@
+header:3003
+收到消息：Game.Shared.Proto.Msg_PlayerConnect_Rsp/{ }
+header:3004
+header:3005
+收到消息：Game.Shared.Proto.Msg_PlayerIdentify_Rsp/{ "result": 3005, "playerId": 1 }
+header:3007
+收到消息：Game.Shared.Proto.Msg_Join_Ntf/{ "playerIds": [ 3007, 1 ] }
+header:3008
+header:13

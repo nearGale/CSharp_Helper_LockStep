@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+IIU7+6Kr3M=",
+  "success": true,
+  "projectFilePath": "D:\\TestProject\\CSProjects\\CSharp_LockStep\\CS_Full\\CS_Full\\CS_Full.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xuzhihao06\\.nuget\\packages\\google.protobuf\\3.33.5\\google.protobuf.3.33.5.nupkg.sha512",
+    "C:\\Users\\xuzhihao06\\.nuget\\packages\\google.protobuf.tools\\3.33.5\\google.protobuf.tools.3.33.5.nupkg.sha512"
+  ],
+  "logs": []
+}

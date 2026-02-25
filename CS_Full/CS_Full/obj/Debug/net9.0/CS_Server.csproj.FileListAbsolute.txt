@@ -1,0 +1,14 @@
+D:\TestProject\CSProjects\CS_Server\CS_Server\bin\Debug\net9.0\CS_Server.exe
+D:\TestProject\CSProjects\CS_Server\CS_Server\bin\Debug\net9.0\CS_Server.deps.json
+D:\TestProject\CSProjects\CS_Server\CS_Server\bin\Debug\net9.0\CS_Server.runtimeconfig.json
+D:\TestProject\CSProjects\CS_Server\CS_Server\bin\Debug\net9.0\CS_Server.dll
+D:\TestProject\CSProjects\CS_Server\CS_Server\bin\Debug\net9.0\CS_Server.pdb
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\CS_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\CS_Server.AssemblyInfoInputs.cache
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\CS_Server.AssemblyInfo.cs
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\CS_Server.csproj.CoreCompileInputs.cache
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\CS_Server.dll
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\refint\CS_Server.dll
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\CS_Server.pdb
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\CS_Server.genruntimeconfig.cache
+D:\TestProject\CSProjects\CS_Server\CS_Server\obj\Debug\net9.0\ref\CS_Server.dll

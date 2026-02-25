@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestProject\\CSProjects\\CS_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9D30DA-D065-D819-DF0F-C01CFDC70057}|CS_Server\\CS_Server.csproj|d:\\testproject\\csprojects\\cs_server\\cs_server\\cs_server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5F9D30DA-D065-D819-DF0F-C01CFDC70057}|CS_Server\\CS_Server.csproj|solutionrelative:cs_server\\cs_server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9D30DA-D065-D819-DF0F-C01CFDC70057}|CS_Server\\CS_Server.csproj|d:\\testproject\\csprojects\\cs_server\\cs_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9D30DA-D065-D819-DF0F-C01CFDC70057}|CS_Server\\CS_Server.csproj|solutionrelative:cs_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS_Server",
+              "DocumentMoniker": "D:\\TestProject\\CSProjects\\CS_Server\\CS_Server\\CS_Server.csproj",
+              "RelativeDocumentMoniker": "CS_Server\\CS_Server.csproj",
+              "ToolTip": "D:\\TestProject\\CSProjects\\CS_Server\\CS_Server\\CS_Server.csproj",
+              "RelativeToolTip": "CS_Server\\CS_Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T14:36:06.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestProject\\CSProjects\\CS_Server\\CS_Server\\Program.cs",
+              "RelativeDocumentMoniker": "CS_Server\\Program.cs",
+              "ToolTip": "D:\\TestProject\\CSProjects\\CS_Server\\CS_Server\\Program.cs",
+              "RelativeToolTip": "CS_Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:27:41.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

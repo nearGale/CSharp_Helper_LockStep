@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.shared\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.shared\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\client_rtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\client_rtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\networkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\networkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.shared\\utils\\commonutil_proto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.shared\\utils\\commonutil_proto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.shared\\protobuf\\protobufmsgresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.shared\\protobuf\\protobufmsgresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\systems\\clientmessagesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\systems\\clientmessagesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\systems\\clientloginsimulatorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\systems\\clientloginsimulatorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\gamefacade_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\gamefacade_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\systems\\clientframesyncsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\systems\\clientframesyncsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\systems\\clientlogicsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\systems\\clientlogicsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\gamehelper\\protomsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\gamehelper\\protomsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.shared\\isystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.shared\\isystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\lifecircemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\lifecircemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\systems\\clienttimersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\systems\\clienttimersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|e:\\mine\\code\\csharp_helper_lockstep\\cs_client\\cs_client\\game.client\\systems\\clientroomsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43E6A-76AE-72C2-E667-5ADB152CD44E}|CS_Client\\CS_Client.csproj|solutionrelative:cs_client\\game.client\\systems\\clientroomsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommonUtil_Proto.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Shared\\Utils\\CommonUtil_Proto.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Shared\\Utils\\CommonUtil_Proto.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Shared\\Utils\\CommonUtil_Proto.cs",
+              "RelativeToolTip": "CS_Client\\Game.Shared\\Utils\\CommonUtil_Proto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T17:13:59.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientFrameSyncSystem.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientFrameSyncSystem.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\Systems\\ClientFrameSyncSystem.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientFrameSyncSystem.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\Systems\\ClientFrameSyncSystem.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAIAywG8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T16:28:20.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameFacade_Client.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\GameFacade_Client.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\GameFacade_Client.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\GameFacade_Client.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\GameFacade_Client.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T16:25:20.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LifeCirceMethod.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\LifeCirceMethod.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\LifeCirceMethod.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\LifeCirceMethod.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\LifeCirceMethod.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA0wBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:41:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Protocol.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Shared\\Protocol.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Shared\\Protocol.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Shared\\Protocol.cs",
+              "RelativeToolTip": "CS_Client\\Game.Shared\\Protocol.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwE8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:40:17.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProtoBufMsgResolver.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Shared\\ProtoBuf\\ProtoBufMsgResolver.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Shared\\ProtoBuf\\ProtoBufMsgResolver.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Shared\\ProtoBuf\\ProtoBufMsgResolver.cs",
+              "RelativeToolTip": "CS_Client\\Game.Shared\\ProtoBuf\\ProtoBufMsgResolver.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAywCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:31:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProtoMsgHandler.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\GameHelper\\ProtoMsgHandler.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\GameHelper\\ProtoMsgHandler.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\GameHelper\\ProtoMsgHandler.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\GameHelper\\ProtoMsgHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:28:53.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientLoginSimulatorSystem.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientLoginSimulatorSystem.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\Systems\\ClientLoginSimulatorSystem.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientLoginSimulatorSystem.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\Systems\\ClientLoginSimulatorSystem.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAABCwCMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:22:30.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientLogicSystem.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientLogicSystem.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\Systems\\ClientLogicSystem.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientLogicSystem.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\Systems\\ClientLogicSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:21:52.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientTimerSystem.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientTimerSystem.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\Systems\\ClientTimerSystem.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientTimerSystem.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\Systems\\ClientTimerSystem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIA0wCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:21:17.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client_RTT.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Client_RTT.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\Client_RTT.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Client_RTT.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\Client_RTT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:18:45.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkClient.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\NetworkClient.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\NetworkClient.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\NetworkClient.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\NetworkClient.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAlwN0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:16:49.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientRoomSystem.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientRoomSystem.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\Systems\\ClientRoomSystem.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientRoomSystem.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\Systems\\ClientRoomSystem.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:15:45.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Program.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\Program.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Program.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:14:08.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientMessageSystem.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientMessageSystem.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Client\\Systems\\ClientMessageSystem.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Client\\Systems\\ClientMessageSystem.cs",
+              "RelativeToolTip": "CS_Client\\Game.Client\\Systems\\ClientMessageSystem.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv5UAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:13:23.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISystem.cs",
+              "DocumentMoniker": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Shared\\ISystem.cs",
+              "RelativeDocumentMoniker": "CS_Client\\Game.Shared\\ISystem.cs",
+              "ToolTip": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Client\\CS_Client\\Game.Shared\\ISystem.cs",
+              "RelativeToolTip": "CS_Client\\Game.Shared\\ISystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:11:25.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

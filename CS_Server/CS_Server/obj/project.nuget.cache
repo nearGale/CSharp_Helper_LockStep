@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9H1vseWl8k=",
+  "success": true,
+  "projectFilePath": "E:\\Mine\\Code\\CSharp_Helper_LockStep\\CS_Server\\CS_Server\\CS_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\87531\\.nuget\\packages\\google.protobuf\\3.33.5\\google.protobuf.3.33.5.nupkg.sha512"
+  ],
+  "logs": []
+}
